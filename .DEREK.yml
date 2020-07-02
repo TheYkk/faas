@@ -1,0 +1,9 @@
+maintainers:
+ - TheYkk
+ 
+features:
+ - dco_check
+ - comments
+ - pr_description_required
+ - hacktoberfest
+ - release_notes
